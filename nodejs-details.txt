@@ -1,0 +1,26 @@
+
+https://github.com/vijay-shivakumar/node
+https://github.com/poorna-chandra/Node
+
+npm init
+npm install express --save  /  npm i express --save
+npm install gulp -g --save-dev
+npm uninstall /u
+npm update express
+npm -h
+
+
+dev module  :  gulp / forever / nodemon
+
+
+n.poorna /  Poorna@123
+To connect using the mongo shell:
+mongo ds251737.mlab.com:51737/poornamdb -u <dbuser> -p <dbpassword>
+To connect using a driver via the standard MongoDB URI (what's this?):
+
+mongodb://<dbuser>:<dbpassword>@ds251737.mlab.com:51737/poornamdb
+
+
+vijay-shivu@gmail.com
+
+
